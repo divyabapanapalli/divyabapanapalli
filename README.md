@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**divyabapanapalli/divyabapanapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Divya 👋
 
-Here are some ideas to get you started:
+Im a Computer Information Systems student at The University of Texas at Dallas interested in Product Management!
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Break Through Tech AI Fellow
+
+Selected for the Break Through Tech AI Fellowship, where I'm building machine learning, data science, and professional leadership skills through hands-on technical projects and industry mentorship.
+
+---
+
+## Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Machine Learning**
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+
+**Skills**
+- Python
+- Data Visualization
+- Pandas
+- Matplotlib
+
+---
+
+## 🏆 Certifications
+
+- Break Through Tech AI – Machine Learning Foundations *(In Progress)*
+
+---
+ Connect with me on LinkedIn!
