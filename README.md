@@ -33,7 +33,7 @@ Selected for the Break Through Tech AI Fellowship, where I'm building machine le
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - Break Through Tech AI – Machine Learning Foundations *(In Progress)*
 
